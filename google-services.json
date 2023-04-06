@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "137526910351",
+    "project_id": "rnelc-99214",
+    "storage_bucket": "rnelc-99214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137526910351:android:c1e2d2fe5bc34718dcbffa",
+        "android_client_info": {
+          "package_name": "com.trannhantam4.RNELC"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137526910351-3ntt3n058naetsvo2a9ohjkgv54fet8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trannhantam4.RNELC",
+            "certificate_hash": "ca38705cf82506bcb7a738ff7726d18cf371ea1c"
+          }
+        },
+        {
+          "client_id": "137526910351-pk02c6peibanth6r7h7kdplfbt1rkrt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trannhantam4.RNELC",
+            "certificate_hash": "242e44e97029c97bbcc047bdb2112c689c5cec3b"
+          }
+        },
+        {
+          "client_id": "137526910351-ocbvdkdvapefils0ocb6shfsr8di1k6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYzbLrljJ5d9ZNGbcnwNtC4X4uWqPdA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137526910351-ocbvdkdvapefils0ocb6shfsr8di1k6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
